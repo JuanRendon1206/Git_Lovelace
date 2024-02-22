@@ -1,5 +1,5 @@
 # Comando para conectar mi git local con el git en la nube
-- git remote add nombre-conexion url-conexion (cuando ya tengo algo en el git local de esto)
+- git remote add nombre-conexion(origin) url-conexion (cuando ya tengo algo en el git local de esto)
 
 ## Comando para clonar o traer repositorio de git remoto
 - git clone url-conexion(para cuando voy a comenzar a codear y no tengo nada en el archivo)
