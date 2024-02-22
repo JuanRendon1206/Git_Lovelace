@@ -23,3 +23,5 @@
 
 ## Eliminar una rama que no tenia seguimiento
 - git rm --cached index.html(o el nombre de mi archivo)
+
+## Comando para juntar el 
